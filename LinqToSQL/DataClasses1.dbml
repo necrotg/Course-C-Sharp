@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DataBase" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-5FJD1VS;Initial Catalog=DataBase;Persist Security Info=True;User ID=sa" SettingsObjectName="LinqToSQL.Properties.Settings" SettingsPropertyName="DataBaseConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.University" Member="Universities">
+    <Type Name="University">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="University_Studant" Member="Studants" ThisKey="Id" OtherKey="UniversityId" Type="Studant" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Studant" Member="Studants">
+    <Type Name="Studant">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Age" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UniversityId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Studant_StudantLecture" Member="StudantLecture" ThisKey="Id" OtherKey="StudantId" Type="StudantLecture" Cardinality="One" />
+      <Association Name="University_Studant" Member="University" ThisKey="UniversityId" OtherKey="Id" Type="University" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lecture" Member="Lectures">
+    <Type Name="Lecture">
+      <Column Name="Id" AutoSync="Never" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Lecture_StudantLecture" Member="StudantLectures" ThisKey="Id" OtherKey="LectureId" Type="StudantLecture" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudantLecture" Member="StudantLectures">
+    <Type Name="StudantLecture">
+      <Column Name="StudantId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="LectureId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Lecture_StudantLecture" Member="Lecture" ThisKey="LectureId" OtherKey="Id" Type="Lecture" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Studant_StudantLecture" Member="Studant" ThisKey="StudantId" OtherKey="Id" Type="Studant" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+</Database>

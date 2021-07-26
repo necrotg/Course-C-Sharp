@@ -1,0 +1,15 @@
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.csproj.AssemblyReference.cache
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\MainWindow.g.cs
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\App.g.cs
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo_MarkupCompile.cache
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo_MarkupCompile.lref
+C:\Users\fgmil\source\repos\Zoooo\bin\Debug\Zoooo.exe.config
+C:\Users\fgmil\source\repos\Zoooo\bin\Debug\Zoooo.exe
+C:\Users\fgmil\source\repos\Zoooo\bin\Debug\Zoooo.pdb
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\MainWindow.baml
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.g.resources
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.Properties.Resources.resources
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.csproj.GenerateResource.cache
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.exe
+C:\Users\fgmil\source\repos\Zoooo\obj\Debug\Zoooo.pdb

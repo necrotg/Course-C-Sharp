@@ -1,0 +1,1 @@
+﻿select a.Name from Animal a inner join  AnimalZoo az on a.Id = az.AnimalId inner join Zoo z on az.ZooId = z.Id

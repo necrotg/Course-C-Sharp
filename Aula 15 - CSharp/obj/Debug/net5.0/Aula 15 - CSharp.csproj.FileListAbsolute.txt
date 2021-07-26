@@ -1,0 +1,16 @@
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.csproj.AssemblyReference.cache
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.AssemblyInfoInputs.cache
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.AssemblyInfo.cs
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\Aula 15 - CSharp.exe
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\Aula 15 - CSharp.deps.json
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\Aula 15 - CSharp.runtimeconfig.json
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\Aula 15 - CSharp.runtimeconfig.dev.json
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\Aula 15 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\ref\Aula 15 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\bin\Debug\net5.0\Aula 15 - CSharp.pdb
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\ref\Aula 15 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.pdb
+C:\Users\fgmil\source\repos\Aula 15 - CSharp\obj\Debug\net5.0\Aula 15 - CSharp.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\Aula 17 - CSharp.exe
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\Aula 17 - CSharp.deps.json
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\Aula 17 - CSharp.runtimeconfig.json
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\Aula 17 - CSharp.runtimeconfig.dev.json
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\Aula 17 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\ref\Aula 17 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\bin\Debug\net5.0-windows\Aula 17 - CSharp.pdb
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.csproj.AssemblyReference.cache
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp_MarkupCompile.cache
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp_MarkupCompile.lref
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.g.resources
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.AssemblyInfoInputs.cache
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.AssemblyInfo.cs
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\ref\Aula 17 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.pdb
+C:\Users\fgmil\source\repos\Aula 17 - CSharp\obj\Debug\net5.0-windows\Aula 17 - CSharp.genruntimeconfig.cache

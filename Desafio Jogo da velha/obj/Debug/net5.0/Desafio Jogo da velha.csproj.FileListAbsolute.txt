@@ -1,0 +1,16 @@
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\Desafio Jogo da velha.exe
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\Desafio Jogo da velha.deps.json
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\Desafio Jogo da velha.runtimeconfig.json
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\Desafio Jogo da velha.runtimeconfig.dev.json
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\Desafio Jogo da velha.dll
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\ref\Desafio Jogo da velha.dll
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\bin\Debug\net5.0\Desafio Jogo da velha.pdb
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.AssemblyInfoInputs.cache
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.AssemblyInfo.cs
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.dll
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\ref\Desafio Jogo da velha.dll
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.pdb
+C:\Users\fgmil\source\repos\Desafio Jogo da velha\obj\Debug\net5.0\Desafio Jogo da velha.genruntimeconfig.cache

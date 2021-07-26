@@ -1,0 +1,16 @@
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\Aula 6 - CSharp.exe
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\Aula 6 - CSharp.deps.json
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\Aula 6 - CSharp.runtimeconfig.json
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\Aula 6 - CSharp.runtimeconfig.dev.json
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\Aula 6 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\ref\Aula 6 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\bin\Debug\net5.0\Aula 6 - CSharp.pdb
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.csproj.AssemblyReference.cache
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.AssemblyInfoInputs.cache
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.AssemblyInfo.cs
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\ref\Aula 6 - CSharp.dll
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.pdb
+C:\Users\fgmil\source\repos\Aula 6 - CSharp\obj\Debug\net5.0\Aula 6 - CSharp.genruntimeconfig.cache

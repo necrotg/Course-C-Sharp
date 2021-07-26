@@ -1,0 +1,16 @@
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\Challenge Post.exe
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\Challenge Post.deps.json
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\Challenge Post.runtimeconfig.json
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\Challenge Post.runtimeconfig.dev.json
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\Challenge Post.dll
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\ref\Challenge Post.dll
+C:\Users\fgmil\source\repos\Challenge Post\bin\Debug\net5.0\Challenge Post.pdb
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.csproj.AssemblyReference.cache
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.AssemblyInfoInputs.cache
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.AssemblyInfo.cs
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.csproj.CoreCompileInputs.cache
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.dll
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\ref\Challenge Post.dll
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.pdb
+C:\Users\fgmil\source\repos\Challenge Post\obj\Debug\net5.0\Challenge Post.genruntimeconfig.cache
